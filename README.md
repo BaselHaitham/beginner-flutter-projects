@@ -21,10 +21,13 @@ A personal profile app with an avatar, name, job title, and contact info.
 🎵 4. Tunes App
 Plays musical notes when buttons are pressed.
 
+ 
 🔹 Splash Screen
+
 <img src="https://github.com/user-attachments/assets/54625e00-a024-45b7-9c37-ecf9662174ea" width="250"/>
 
 🔸 Home Screen
+
 <img src="https://github.com/user-attachments/assets/c3d62e6c-1fb8-4553-bf51-232a5f03025d" width="250"/>
 
 🗣️ 5. Toku - Language Learning App
