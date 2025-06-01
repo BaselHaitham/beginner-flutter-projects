@@ -19,3 +19,11 @@
 ![tunesapp home](https://github.com/user-attachments/assets/c3d62e6c-1fb8-4553-bf51-232a5f03025d)
 
 
+5-toku (language learning app)
+[splash]
+![splash](https://github.com/user-attachments/assets/3f409429-1ae5-4244-b1c2-0fa1e7b74803)
+[numbers,colors.family,phrases] screens
+![Screenshot_1748793351](https://github.com/user-attachments/assets/bab7e0a6-4b02-4b9b-8779-ffcd6c32a841)
+![Screenshot_1748793347](https://github.com/user-attachments/assets/61fc56e9-799e-42d5-abea-9fb1aabe1121)
+![Screenshot_1748793343](https://github.com/user-attachments/assets/12253155-7cd6-4afc-a295-43d82d2a60d0)
+![Screenshot_1748793354](https://github.com/user-attachments/assets/701fdc4f-51e6-4ae6-9649-d97cda2c0a82)
