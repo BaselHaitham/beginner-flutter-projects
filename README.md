@@ -36,4 +36,11 @@ Learn Japanese vocabulary through categories like numbers, colors, family, and p
 🔹 Splash Screen
 <img src="https://github.com/user-attachments/assets/3f409429-1ae5-4244-b1c2-0fa1e7b74803" width="250"/>
 
+🔹 [Numbers, Colors, Phrases, Family] Screens
+Numbers	Colors	Phrases	Family
+<img src="https://github.com/user-attachments/assets/4bc1ae72-2340-4e9a-a2ff-6e587fd432a0" width="200"/>	<img src="https://github.com/user-attachments/assets/20e209dc-a81d-4576-9c86-77d401fb24ac" width="200"/>	<img src="https://github.com/user-attachments/assets/eb2d5587-17bc-4c8e-8a0e-a8c0c758ccec" width="200"/>	<img src="https://github.com/user-attachments/assets/e7df1671-6fa4-4b03-810f-b736fc008000" width="200"/>
+
+
+
+
 💡 All apps are built using Flutter with a focus on clean UI and basic functionality. These projects helped me practice state management, layouts, audio, and navigation.
