@@ -49,7 +49,7 @@ Learn Japanese vocabulary with sound support. Features four categories: Numbers,
 
 ### 🔸 Categories Screens
 
-| Numbers | Colors | Phrases | Family |
+| phrases | family | colors | numbers |
 |--------|--------|---------|--------|
 | <img src="https://github.com/user-attachments/assets/4bc1ae72-2340-4e9a-a2ff-6e587fd432a0" width="200"/> | <img src="https://github.com/user-attachments/assets/20e209dc-a81d-4576-9c86-77d401fb24ac" width="200"/> | <img src="https://github.com/user-attachments/assets/eb2d5587-17bc-4c8e-8a0e-a8c0c758ccec" width="200"/> | <img src="https://github.com/user-attachments/assets/e7df1671-6fa4-4b03-810f-b736fc008000" width="200"/> |
 
